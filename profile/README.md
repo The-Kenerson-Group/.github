@@ -7,5 +7,5 @@
 ## Our Team
 ### Wendy Priestley - Chief Executive Officer
 ### Ralph Armstrong - Principal Software Engineer
-### Aidan Fahey - Software Engineer
+### Winston Luu - Software Engineer
 ### Duncan Priesley - Systems Administrator
